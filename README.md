@@ -1,6 +1,8 @@
 # 💫 About Me:
 I’m currently working on building cybersecurity skills, practicing ethical hacking labs, and contributing to projects in network security, software engg, and system hardening.<br><br>I’m looking to collaborate on open-source security tools, capture-the-flag (CTF) writeups, and Python/Java projects related to penetration testing or secure web applications.<br>​<br><br>I’m looking for help with advanced penetration testing methodologies, real-world security project ideas, and guidance on breaking into cybersecurity roles as a fresher.<br>​<br><br>I’m currently learning Kali Linux tools, networking fundamentals, web application security, Docker, CI/CD, and strengthening data structures and algorithms for technical interviews.<br>​<br><br>Ask me about ethical hacking basics, TryHackMe-style labs, projects, and how to get started with cybersecurity/software fields.<br><br>Fun fact: Outside of code and CTFs, active participation in extracurricular events has helped develop leadership and communication skills that carry over into technical teamwork
 
+![Profile views](https://komarev.com/ghpvc/?username=VIL7&color=blue)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/virendra-lohar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:virendralohar07@outlook.com) 
